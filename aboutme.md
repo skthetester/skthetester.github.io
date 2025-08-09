@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: Sivakumar Ganesan
 subtitle: Empowering Quality Through Testing Excellence
 ---
 
