@@ -36,6 +36,6 @@ https://youtu.be/jXPN12ReUJg
 
   
 Read more about other software testing blogs
-[here](https://testingchief.com/category/testing/).  
-What do you think? Leave your comments here or on Twitter
-[@testingchief](https://twitter.com/testingchief).
+[here](https://skthetester.github.io/).  
+What do you think? Leave your comments here or on X
+[@testingchief](https://x.com/testingchief).

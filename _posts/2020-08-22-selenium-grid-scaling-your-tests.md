@@ -14,5 +14,5 @@ https://www.youtube.com/watch?v=638PcaJDigc
 > parallel on remote machines.
 
 What do you think about managing a reliable and scalable test infrastructure
-for your automated tests? Leave your comments here or on Twitter
-[@testingchief](https://twitter.com/testingchief).
+for your automated tests? Leave your comments here or on X
+[@testingchief](https://x.com/testingchief).

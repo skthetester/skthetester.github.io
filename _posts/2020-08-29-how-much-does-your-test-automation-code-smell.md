@@ -59,10 +59,10 @@ https://youtu.be/Gp1DAdy-XXA
 
   
 Read more about other software testing blogs
-[here](https://testingchief.com/category/testing/).  
+[here](https://skthetester.github.io/).  
 What do you think about code quality and code smell in test automation
-scripts? Leave your comments here or on Twitter
-[@testingchief](https://twitter.com/testingchief).
+scripts? Leave your comments here or on X
+[@testingchief](https://x.com/testingchief).
 
   
 **Additional resources:**

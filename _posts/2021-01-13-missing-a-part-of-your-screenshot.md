@@ -56,7 +56,7 @@ Viola! There's your full screenshot.
 
 * * *
 
-You can leave your comments here or on Twitter
-[@testingchief](https://twitter.com/testingchief). If you are interested in
+You can leave your comments here or on X
+[@testingchief](https://x.com/testingchief). If you are interested in
 similar articles on software testing or test automation, you can find them
-[here](https://testingchief.com/blog/).
+[here](https://skthetester.github.io/).

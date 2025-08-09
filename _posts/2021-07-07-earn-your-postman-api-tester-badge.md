@@ -68,5 +68,5 @@ galaxy-training/overview)
 * * *
 
 If you found this interesting, you can find more such articles
-[here](https://testingchief.com/blog/) on quality assurance, test automation,
+[here](https://skthetester.github.io/) on quality assurance, test automation,
 tools, and processes. Don't forget to leave your comments. Thank you!

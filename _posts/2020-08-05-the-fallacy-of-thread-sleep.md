@@ -30,6 +30,6 @@ Inspired from
   * <https://www.seleniumhq.org/docs/04_webdriver_advanced.jsp#explicit-and-implicit-waits>
 
 What do you think? I would love to hear them. You can leave your comments here
-or on Twitter [@testingchief](https://twitter.com/testingchief). Read more
+or on X [@testingchief](https://x.com/testingchief). Read more
 about other software testing blogs
-[here](https://testingchief.com/category/testing/).
+[here](https://skthetester.github.io/).

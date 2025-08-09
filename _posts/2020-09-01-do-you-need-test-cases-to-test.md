@@ -44,5 +44,5 @@ Here are the reasons why?
 Let me what do you think about the necessity of test cases in the comments.
 
 For more information and the latest updates on test automation, follow me on
-Twitter [@testingchief](https://twitter.com/testingchief) or subscribe to
-[testingchief.com](https://testingchief.com/).
+X [@testingchief](https://x.com/testingchief) or subscribe to
+[here](https://skthetester.github.io/).

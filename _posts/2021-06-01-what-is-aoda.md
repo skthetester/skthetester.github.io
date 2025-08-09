@@ -79,9 +79,9 @@ and pre-recorded audio descriptions for media.
 * * *
 
 What do you think about accessibility? You can leave your comments here or on
-Twitter [@testingchief](https://twitter.com/testingchief). You can read my
+X [@testingchief](https://x.com/testingchief). You can read my
 other interesting software testing blogs
-[here](https://testingchief.com/blog/).
+[here](https://skthetester.github.io/).
 
 Additional References:  
 <https://www.ontario.ca/page/completing-your-accessibility-compliance-report>  

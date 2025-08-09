@@ -57,6 +57,6 @@ significant role in areas like user experience, performance, and accessibility
 testing.
 
 Read more about other software testing blogs
-[here](https://testingchief.com/category/testing/).  
+[here](https://skthetester.github.io/).  
 What do you think about accessibility testing and its importance? Leave your
-comments here or on Twitter [@testingchief](https://twitter.com/testingchief).
+comments here or on X [@testingchief](https://x.com/testingchief).

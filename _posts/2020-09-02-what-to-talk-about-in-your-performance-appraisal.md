@@ -42,7 +42,7 @@ content/uploads/2020/09/1-1s-660x1024.png)
 
   
 Read more about my random thoughts
-[here](https://testingchief.com/category/random-thoughts/).  
+[here](https://skthetester.github.io/).  
 What do you think about the importance of getting out of your comfort zone?
-Leave your comments here or on Twitter
-[@testingchief](https://twitter.com/testingchief).
+Leave your comments here or on X
+[@testingchief](https://x.com/testingchief).

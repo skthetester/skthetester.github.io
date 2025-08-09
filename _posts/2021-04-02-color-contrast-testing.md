@@ -114,9 +114,9 @@ Contrast Advisor
 * * *
 
 What do you think about accessibility and in specific color contrast? You can
-leave your comments here or on Twitter
-[@testingchief](https://twitter.com/testingchief). You can read my other
-interesting software testing blogs [here](https://testingchief.com/blog/).
+leave your comments here or on X
+[@testingchief](https://x.com/testingchief). You can read my other
+interesting software testing blogs [here](https://skthetester.github.io/).
 
 Additional References:  
 <https://accessibility.blog.gov.uk/2016/06/17/colour-contrast-why-does-it-
