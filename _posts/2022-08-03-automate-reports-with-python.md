@@ -20,8 +20,7 @@ to rely on my team to provide the data manually. Without the help of such
 tools, compiling such a report, generating insights, making charts, and
 sending them is monotonous and boring to do every day.
 
-![](https://testingchief.com/wp-
-content/uploads/2022/08/automate_reports_python-1024x576.png)
+![](./assets/img/posts/automate_reports_python-1024x576.png)
 
 ## Solution
 

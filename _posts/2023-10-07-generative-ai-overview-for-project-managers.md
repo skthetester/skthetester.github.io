@@ -25,8 +25,7 @@ phases
 
 You can refer to the below mindmap that I created for easy reference.
 
-![](https://testingchief.com/wp-content/uploads/2023/10/Generative-AI-for-
-Project-Practitioners-1024x590.png)
+![](./assets/img/posts/Generative-AI-for-Project-Practitioners-1024x590.png)
 
 What stood out to me the most about this course? 💡  
 📑 It provides a handy list of AI tools to use in various project stages. It's

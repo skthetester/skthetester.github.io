@@ -27,8 +27,7 @@ optional .docx report with test steps and screenshots. For audit purposes, the
 request came in to attach these documents to automated test runs along with
 their PASS/FAIL status.
 
-![](https://testingchief.com/wp-
-content/uploads/2022/08/add_attachments-1024x576.png)add attachments
+![](./assets/img/posts/add_attachments-1024x576.png)add attachments
 
 ### Solution
 

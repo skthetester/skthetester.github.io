@@ -11,8 +11,7 @@ I asked the same question to ChatGPT itself. Here's what ChatGPT had to say...
 
 **Me:** How can you, the ChatGPT, help in Software Testing?
 
-![chatgpt-software-testing](https://testingchief.com/wp-
-content/uploads/2023/02/pexels-chatbot-1024x681.jpg)ChatGPT
+![chatgpt-software-testing](./assets/img/posts/pexels-chatbot-1024x681.jpg)ChatGPT
 
 **ChatGPT:** As an AI language model, I can help in software testing in
 several ways:

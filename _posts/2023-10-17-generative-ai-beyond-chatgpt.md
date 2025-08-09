@@ -29,8 +29,7 @@ writing explicit posts on each of the below headers with examples later.
 The transformer architecture has revolutionized the field of natural language
 processing (NLP) and is now widely used in a variety of NLP tasks.
 
-![Transformer Architecture](https://testingchief.com/wp-
-content/uploads/2023/10/transformer_architecture.png)
+![Transformer Architecture](./assets/img/posts/transformer_architecture.png)
 
 ###### Model Types:
 
@@ -51,8 +50,7 @@ are listed below.
   * Named entity recognition
   * Connecting to real-time data or external data sources
 
-![GenAI use cases](https://testingchief.com/wp-content/uploads/2023/10/genai-
-usecases.png)
+![GenAI use cases](./assets/img/posts/genai-usecases.png)
 
 ## Base Gen AI Models
 
@@ -66,8 +64,7 @@ these are the basic models out there right now (October 2023).
   * BERT
   * BLOOM
 
-![AI models](https://testingchief.com/wp-content/uploads/2023/10/genai-
-models.png)
+![AI models](./assets/img/posts/genai-models.png)
 
 The two most popular model hubs available currently are
 
@@ -83,8 +80,7 @@ instruction given to the model to generate desired and contextually
 appropriate responses. The importance of prompt engineering cannot be
 overstated.
 
-![Prompt Engineering](https://testingchief.com/wp-
-content/uploads/2023/10/genai-promptengg-1024x585.png)
+![Prompt Engineering](./assets/img/posts/genai-promptengg-1024x585.png)
 
 ## Challenges with Gen AI
 
@@ -97,8 +93,7 @@ Major current challenges with respect to using Generative AI are
     * Mathematical problems
     * Hallucination
 
-![GenAI Challenges](https://testingchief.com/wp-content/uploads/2023/10/genai-
-challenges-1024x377.png)
+![GenAI Challenges](./assets/img/posts/genai-challenges-1024x377.png)
 
 ## Gen AI Project Lifecycle
 
@@ -126,8 +121,7 @@ Below are the four key stages of a generative AI project lifecycle:
   * Integrate the model into existing applications or develop new generative AI-powered applications.
   * Augment the model's capabilities by combining it with other AI techniques and tools.
 
-![GenAI Project Lifecycle](https://testingchief.com/wp-
-content/uploads/2023/10/genai-lifecyclev2.png)
+![GenAI Project Lifecycle](./assets/img/posts/genai-lifecyclev2.png)
 
 ## How to evaluate Gen AI Models?
 
@@ -136,8 +130,7 @@ The two widely used metrics to evaluate Gen AI models are
   * BLEU (**B** i**l** ingual **E** valuation **U** nderstudy) 
   * ROUGE (**R** ecall-**O** riented **U** nderstudy for **G** isting **E** valuation).
 
-![Gen AI Model Evaluations](https://testingchief.com/wp-
-content/uploads/2023/10/genai-evaluations.png)
+![Gen AI Model Evaluations](./assets/img/posts/genai-evaluations.png)
 
 ## Optimize Models: Reinforcement Learning from Human Feedback (RLHF)
 
@@ -169,8 +162,7 @@ The three areas to primarily focus are
   * Hallucinations
   * Intellectual Property Rights Violations
 
-![Responsible AI](https://testingchief.com/wp-content/uploads/2023/10/genai-
-responsibleai.png)
+![Responsible AI](./assets/img/posts/genai-responsibleai.png)
 
 * * *
 

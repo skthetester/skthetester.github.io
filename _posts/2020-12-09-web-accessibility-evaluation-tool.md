@@ -9,5 +9,4 @@ tags:
 title: WAVE - Quick look at the Web Accessibility Evaluation Tool
 ---
 
-![](https://testingchief.com/wp-content/uploads/2020/12/Accessibility-Testing-
-Tools-WAVE.png)
+![](./assets/img/posts/Accessibility-Testing-Tools-WAVE.png)

@@ -17,8 +17,7 @@ start testing without test cases?
 > To me, test cases for testing is more like the shopping list is for
 > shopping!
 
-![](https://testingchief.com/wp-content/uploads/2020/09/testcases-
-sshoppinglist.png)
+![](./assets/img/posts/testcases-sshoppinglist.png)
 
 Here are the reasons why?
 

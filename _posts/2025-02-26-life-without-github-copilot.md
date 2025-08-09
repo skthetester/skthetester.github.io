@@ -16,8 +16,7 @@ clean up after it? The short answer? _**No**._ The long answer? It’s
 difficult—because Copilot isn’t just a tool; it’s your coding confidant, your
 rubber duck with a PhD.
 
-![](https://testingchief.com/wp-
-content/uploads/2025/02/Gemini_Generated_Image_fxjmy6fxjmy6fxjm-1-1024x1024.jpeg)
+![](./assets/img/posts/Gemini_Generated_Image_fxjmy6fxjmy6fxjm-1-1024x1024.jpeg)
 
 ### What Makes Copilot Irreplaceable?
 

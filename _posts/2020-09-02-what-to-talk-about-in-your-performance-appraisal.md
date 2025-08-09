@@ -37,8 +37,7 @@ layout the future plan.
 Follow Julia Evans on Twitter <https://twitter.com/b0rk> and visit
 <https://wizardzines.com> for more like this.
 
-![Performance Appraisal - Things to Discuss](https://testingchief.com/wp-
-content/uploads/2020/09/1-1s-660x1024.png)
+![Performance Appraisal - Things to Discuss](./assets/img/posts/1-1s-660x1024.png)
 
   
 Read more about my random thoughts

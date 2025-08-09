@@ -47,8 +47,7 @@ JavaScript function with the following simple actions.
   * Based on obstacle type and Y pos, add a condition to Jump or Duck
   * Finally, call the function so that it runs on the browser while the game is played
 
-![Chrome Dina Code Snippet](https://testingchief.com/wp-
-content/uploads/2022/12/image-4-1024x412.png)
+![Chrome Dina Code Snippet](./assets/img/posts/image-4-1024x412.png)
 
 * * *
 

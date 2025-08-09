@@ -60,14 +60,12 @@ resulting image highlighting the differences.
 
 Here is an example of base and test images -
 
-![base vs test image](https://testingchief.com/wp-
-content/uploads/2021/06/image-13-1024x319.png)Base vs. Test Image
+![base vs test image](./assets/img/posts/image-13-1024x319.png)Base vs. Test Image
 
 And using the simple few lines of code listed above, here is the resulting
 marked image.
 
-![aShot's marked image with differences](https://testingchief.com/wp-
-content/uploads/2021/06/image-14-1024x605.png)aShot's marked image with
+![aShot's marked image with differences](./assets/img/posts/image-14-1024x605.png)aShot's marked image with
 differences
 
 While it had highlighted differences, at first look you might not be happy

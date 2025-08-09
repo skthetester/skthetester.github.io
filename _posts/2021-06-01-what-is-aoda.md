@@ -36,8 +36,7 @@ apply to organizations only under federal jurisdiction. The provincial
 accessibility laws such as AODA set the standards and guidelines for
 organizations within the province._
 
-![accessibility act ontario timeline](https://testingchief.com/wp-
-content/uploads/2021/06/image-1-1024x413.png)
+![accessibility act ontario timeline](./assets/img/posts/image-1-1024x413.png)
 
 ### Why is Accessibility important?
 

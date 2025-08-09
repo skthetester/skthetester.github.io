@@ -29,8 +29,7 @@ automation is very handy. It does two things primarily -
   * If test case already exists, upload test results from automation into Jira
   * If test case doesn't exist, create required tests and update results into Jira
 
-![](https://testingchief.com/wp-content/uploads/2022/08/zephyr_test-
-automation-1024x576.png)Zephyr Test Automation
+![](./assets/img/posts/zephyr_test-automation-1024x576.png)Zephyr Test Automation
 
 ## Frameworks Supported
 

@@ -21,8 +21,7 @@ Now he was trapped and he could not come out of it. He had to depend upon
 someone to put grains in the same jar for him to survive. He may not get the
 grain of his choice and he had to feed on whatever may be put into the jar.
 
-![](https://testingchief.com/wp-
-content/uploads/2020/09/IMG-20200902-WA0050.jpg)
+![](./assets/img/posts/IMG-20200902-WA0050.jpg)
 
 Here are the four lessons that this story tells you -
 

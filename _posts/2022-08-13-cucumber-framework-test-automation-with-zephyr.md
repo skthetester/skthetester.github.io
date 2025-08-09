@@ -27,8 +27,7 @@ corresponding glue code i.e. step definitions. I will be writing more about
 the cucumber framework shortly, but in the meantime, you can read more about
 it [here](https://cucumber.io/tools/cucumber-open/).
 
-![](https://testingchief.com/wp-content/uploads/2022/08/cucumber_zephyr-test-
-automation-1024x576.png)Cucumber Framework - Zephyr Test Automation
+![](./assets/img/posts/cucumber_zephyr-test-automation-1024x576.png)Cucumber Framework - Zephyr Test Automation
 
 ## What do you need?
 

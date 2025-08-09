@@ -16,8 +16,7 @@ boring stuff?
 
 Here's how I did it.
 
-![](https://testingchief.com/wp-content/uploads/2022/10/Update-Jira-
-Issues-1024x576.png)
+![](./assets/img/posts/Update-Jira-Issues-1024x576.png)
 
 ## Solution: Jira API
 

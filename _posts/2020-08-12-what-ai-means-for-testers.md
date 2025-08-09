@@ -85,8 +85,7 @@ be a resounding Yes. To me, if there is no self-learning involved, it's not AI
 but more of an advanced algorithm, and only a very small set of tools out
 there will come close to using real AI.
 
-![](https://testingchief.com/wp-content/uploads/2020/08/artificial-
-intelligence.png)
+![](./assets/img/posts/artificial-intelligence.png)
 
 Finally, I think AI has huge potential in the software testing spectrum to
 improve testing efficiency and effectiveness. It can take the test automation

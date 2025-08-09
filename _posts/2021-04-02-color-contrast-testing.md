@@ -24,8 +24,7 @@ yellow, and green. A person with a normal vision would see the number 74 in
 the image below, but those with red-green color vision deficiency might see
 the number 21 instead.
 
-![color vision deficiency](https://testingchief.com/wp-
-content/uploads/2021/06/image-5.png)Color Vision Deficiency
+![color vision deficiency](./assets/img/posts/image-5.png)Color Vision Deficiency
 
 ## Testing for Color Contrast
 
@@ -38,8 +37,7 @@ mind can trick us with colors. Squares A and B look like different shades of
 grey but when checked with Colour Contrast Analyser, both are exactly the same
 color. How about that?
 
-![optical illusion color contrast](https://testingchief.com/wp-
-content/uploads/2021/06/image-6.png)Optical Illusion
+![optical illusion color contrast](./assets/img/posts/image-6.png)Optical Illusion
 
 ### WCAG Color Contrast Minimum Requirements
 
@@ -82,8 +80,7 @@ provide you the contrast ratio and results for WCAG 2.1 compliance. In this
 Ikea logo example, the contrast is very evident between blue and yellow with a
 contrast ratio of 7.2:1.
 
-![ikea logo color contrast analyzer](https://testingchief.com/wp-
-content/uploads/2021/06/image-7-1024x567.png)Colour Contrast Analyser (CCA)
+![ikea logo color contrast analyzer](./assets/img/posts/image-7-1024x567.png)Colour Contrast Analyser (CCA)
 
 ### Tool 2: Automated Web Accessibility Checkers
 
@@ -96,8 +93,7 @@ highlights the exact element where the issue exists and additional information
 on contrast ratio, type of web element, and even suggestions on how to fix the
 problem.
 
-![Axe core color contrast test](https://testingchief.com/wp-
-content/uploads/2021/06/image-8-1024x598.png)Axe Core - Color Contrast Testing
+![Axe core color contrast test](./assets/img/posts/image-8-1024x598.png)Axe Core - Color Contrast Testing
 
 ### Tool 3: Applitools
 
