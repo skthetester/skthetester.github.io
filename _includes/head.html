@@ -161,9 +161,15 @@
   <link rel="stylesheet" href="{{ "/assets/css/staticman.css" | relative_url }}">
   {% endif %}
 
-  {% assign favicon_exists = site.static_files | where: "path", "/favicon.ico" | size %}
-  {% if favicon_exists == 1 %}
-  <link rel="icon" href="{{ '/favicon.ico' | relative_url }}" />
+
+  {% assign favicon_png_exists = site.static_files | where: "path", "/favicon.png" | size %}
+  {% if favicon_png_exists == 1 %}
+    <link rel="icon" type="image/png" href="{{ '/favicon.png' | relative_url }}" />
+  {% else %}
+    {% assign favicon_exists = site.static_files | where: "path", "/favicon.ico" | size %}
+    {% if favicon_exists == 1 %}
+      <link rel="icon" href="{{ '/favicon.ico' | relative_url }}" />
+    {% endif %}
   {% endif %}
 
   {% if page.head-extra %}
