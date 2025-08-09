@@ -55,7 +55,7 @@ Jira.
 Create the Input Data Sheet - It can be a simple CSV file, say issueIds.csv
 with just 1 column of data with the header "issueId".
 
-![](https://testingchief.com/wp-content/uploads/2022/10/image.png)
+![](./assets/img/posts/image.png)
 
 ##### **STEP 2:**
 

@@ -154,7 +154,7 @@ with those preferences.
   2. **Reward Models** : Reward models are created based on the human feedback. These models serve as guides for reinforcement learning, helping the AI model understand what kind of content is considered more desirable or accurate by humans.
   3. **Training and Fine-Tuning** : The AI model is then retrained and fine-tuned using reinforcement learning techniques. It is exposed to various prompts and content generation tasks to improve its performance in line with the provided feedback.
 
-![RLHF](https://testingchief.com/wp-content/uploads/2023/10/genai-rlhf.png)
+![RLHF](./assets/img/posts/genai-rlhf.png)
 
 ## Responsible AI
 

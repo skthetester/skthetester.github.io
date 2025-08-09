@@ -32,7 +32,7 @@ I shot a series of questions at him.
 > Do you think all the issues in your car have been found, and they had enough
 > time to fix it?
 
-![](https://testingchief.com/wp-content/uploads/2020/08/shift-left-car-01.png)
+![](./assets/img/posts/shift-left-car-01.png)
 
 If you consider the car as your application, testing the individual parts
 would be the unit testing, assembling the parts and testing the systems as a
@@ -43,7 +43,7 @@ GUI layer to further left in the development life cycle, i.e. more of unit,
 component and integration testing. He got his answer in two minutes, win-win
 for both of us!
 
-![](https://testingchief.com/wp-content/uploads/2020/08/shift-left-car-02.png)
+![](./assets/img/posts/shift-left-car-02.png)
 
 What do you think? What would be your explanation if you get the same
 question? I would love to hear them. You can leave your comments here or on

@@ -15,7 +15,7 @@ to other Acts. The Ontario government decided to further elaborate this act in
 2005 with the **"Accessibility for Ontarians with Disabilities Act (AODA)"**.
 It was groundbreaking legislation and the first of its kind in Canada.
 
-![aoda](https://testingchief.com/wp-content/uploads/2021/06/image-2.png)
+![aoda](./assets/img/posts/image-2.png)
 
 AODA's purpose is to create the accessibility standards that organizations
 from public, private, and non-profit sectors must follow and make an

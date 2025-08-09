@@ -15,7 +15,7 @@ using-javascript/) by Alan Richardson AKA Evil Tester. I was intrigued by how
 he was able to automate a game easily with JavaScript and I gave it a try with
 Chrome's Dino game.
 
-![Dino Game](https://testingchief.com/wp-content/uploads/2022/12/image-3.png)
+![Dino Game](./assets/img/posts/image-3.png)
 
 ## The Lonely T-Rex Chrome Dino Game
 

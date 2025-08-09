@@ -36,7 +36,7 @@ Deep learning, or a combination of these to provide one of these capabilities.
   * **Prediction   **\- Using past and current information to predict future
   * **Self-correction or Optimization** \- Learn and correct information
 
-![](https://testingchief.com/wp-content/uploads/2020/08/ai-testing.png)
+![](./assets/img/posts/ai-testing.png)
 
 ## **AI in Software Testing**
 

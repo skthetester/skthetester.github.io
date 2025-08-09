@@ -55,7 +55,7 @@ you need to automate your tests.
 7\. In-built reporting to generate metrics along with traceability. APIs can
 also be used to pull data and generate custom reports
 
-![](https://testingchief.com/wp-content/uploads/2022/06/zephyr-1.jpg)Zephyr
+![](./assets/img/posts/zephyr-1.jpg)Zephyr
 for test management
 
 * * *

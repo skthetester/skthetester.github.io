@@ -58,7 +58,7 @@ Here are the four lessons that this story tells you -
 So, it’s wise to challenge yourself and get out of your comfort zone. In other
 words, upskill yourself continuously, and it’s never too late.
 
-![](https://testingchief.com/wp-content/uploads/2020/09/skill-vs-age.png)
+![](./assets/img/posts/skill-vs-age.png)
 
   
 Read more about my random thoughts

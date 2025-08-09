@@ -66,7 +66,7 @@ executed, it will be scheduled to run and results will be uploaded into Jira.
 Based on the results, the status of the task will be updated as "SUCCESS" or
 "FAIL"
 
-![](https://testingchief.com/wp-content/uploads/2022/08/image-1024x451.png)
+![](./assets/img/posts/image-1024x451.png)
 
 * * *
 
