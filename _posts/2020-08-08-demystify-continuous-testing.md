@@ -56,6 +56,6 @@ and deployment.
 creation,  
 test script generation and script maintenance, bug analysis, and reporting.  
   
-You can leave your comments here or on Twitter
-[@testingchief](https://twitter.com/testingchief). Read more about other
-software testing blogs [here](https://testingchief.com/category/testing/).
+You can leave your comments here or on X
+[@testingchief](https://x.com/testingchief). Read more about other
+software testing blogs [here](https://skthetester.github.io/).

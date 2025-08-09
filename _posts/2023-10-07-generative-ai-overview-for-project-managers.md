@@ -45,6 +45,6 @@ project-managers/el083). Happy Learning! 🚀
 * * *
 
 If you found this interesting, you can find more such articles
-[here](https://testingchief.com/blog/) on quality assurance, test automation,
-tools, and processes. Don’t forget to leave your comments here or on Twitter
-[@testingchief](https://twitter.com/testingchief). Thank you!
+[here](https://skthetester.github.io/) on quality assurance, test automation,
+tools, and processes. Don’t forget to leave your comments here or on X
+[@testingchief](https://x.com/testingchief). Thank you!
