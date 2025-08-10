@@ -21,11 +21,11 @@ author: Sivakumar Ganesan
 
 navbar-links:
   About Me: "aboutme"
-  Blog:
+  Tech Bits:
     - Automation: "/blog/automation/"
     - Tools: "/blog/tools/"
     - Accessibility: "/blog/accessibility/"
-    - Artificial Intelligence: "/blog/artificial-intelligence/"
+    - AI: "/blog/artificial-intelligence/"
     - Random Thoughts: "/blog/random-thoughts/"
   Contact: "/contact/"
 ################
