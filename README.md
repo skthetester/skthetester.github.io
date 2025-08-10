@@ -1,3 +1,5 @@
+[![pages-build-deployment](https://github.com/skthetester/skthetester.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/skthetester/skthetester.github.io/actions/workflows/pages/pages-build-deployment)
+
 # Testing Chief Blog
 
 Welcome to the Testing Chief blog! This site is dedicated to sharing knowledge, insights, and practical tips on software testing, test automation, accessibility, agile transformation, and quality assurance.
