@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Random Thoughts
-permalink: /blog/random-thoughts/
+title: Miscellany
+permalink: /blog/miscellany/
 ---
 
 <ul class="posts-list list-unstyled" role="list">
   {% for post in site.posts %}
-    {% unless post.tags contains 'tools' or post.tags contains 'test automation' or post.tags contains 'accessibility' or post.tags contains 'artificial intelligence' %}
+    {% unless post.tags contains 'tools' or post.tags contains 'test automation' or post.tags contains 'accessibility' or post.tags contains 'testing' or post.tags contains 'artificial intelligence' %}
     <li class="post-preview">
       <article>
         <a href="{{ post.url | absolute_url }}">

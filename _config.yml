@@ -25,8 +25,9 @@ navbar-links:
     - Automation: "/blog/automation/"
     - Tools: "/blog/tools/"
     - AI: "/blog/artificial-intelligence/"
+    - Testing: "/blog/testing/"
     - Accessibility: "/blog/accessibility/"
-    - Miscellany: "/blog/random-thoughts/"
+    - Miscellany: "/blog/miscellany/"
 ################
 # --- Logo --- #
 ################
