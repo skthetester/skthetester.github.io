@@ -29,7 +29,7 @@ automation is very handy. It does two things primarily -
   * If test case already exists, upload test results from automation into Jira
   * If test case doesn't exist, create required tests and update results into Jira
 
-![](./assets/img/posts/zephyr_test-automation-1024x576.png)Zephyr Test Automation
+![](/assets/img/posts/zephyr_test-automation-1024x576.png)Zephyr Test Automation
 
 ## Frameworks Supported
 
@@ -65,7 +65,7 @@ executed, it will be scheduled to run and results will be uploaded into Jira.
 Based on the results, the status of the task will be updated as "SUCCESS" or
 "FAIL"
 
-![](./assets/img/posts/image-1024x451.png)
+![](/assets/img/posts/image-1024x451.png)
 
 * * *
 

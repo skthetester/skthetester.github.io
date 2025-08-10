@@ -36,7 +36,7 @@ Deep learning, or a combination of these to provide one of these capabilities.
   * **Prediction   **\- Using past and current information to predict future
   * **Self-correction or Optimization** \- Learn and correct information
 
-![](./assets/img/posts/ai-testing.png)
+![](/assets/img/posts/ai-testing.png)
 
 ## **AI in Software Testing**
 
@@ -85,7 +85,7 @@ be a resounding Yes. To me, if there is no self-learning involved, it's not AI
 but more of an advanced algorithm, and only a very small set of tools out
 there will come close to using real AI.
 
-![](./assets/img/posts/artificial-intelligence.png)
+![](/assets/img/posts/artificial-intelligence.png)
 
 Finally, I think AI has huge potential in the software testing spectrum to
 improve testing efficiency and effectiveness. It can take the test automation

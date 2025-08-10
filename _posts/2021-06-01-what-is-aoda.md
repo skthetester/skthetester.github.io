@@ -15,7 +15,7 @@ to other Acts. The Ontario government decided to further elaborate this act in
 2005 with the **"Accessibility for Ontarians with Disabilities Act (AODA)"**.
 It was groundbreaking legislation and the first of its kind in Canada.
 
-![aoda](./assets/img/posts/image-2.png)
+![aoda](/assets/img/posts/image-2.png)
 
 AODA's purpose is to create the accessibility standards that organizations
 from public, private, and non-profit sectors must follow and make an
@@ -36,7 +36,7 @@ apply to organizations only under federal jurisdiction. The provincial
 accessibility laws such as AODA set the standards and guidelines for
 organizations within the province._
 
-![accessibility act ontario timeline](./assets/img/posts/image-1-1024x413.png)
+![accessibility act ontario timeline](/assets/img/posts/image-1-1024x413.png)
 
 ### Why is Accessibility important?
 

@@ -29,7 +29,7 @@ DevOps and/or Continuous Testing is not a one-time change, it’s more of a
 Journey. If the project team has already automated their test cases, it is a
 good start but that’s not just enough to be CT ready.
 
-![](./assets/img/posts/continuous-testing-fact.png)
+![](/assets/img/posts/continuous-testing-fact.png)
 
 There are several key things that test teams must ask and prepare themselves
 in order to pursue their journey of continuous testing. Firstly, has the team
@@ -52,7 +52,7 @@ environment and the automated suite shouldn’t have any constraints on where,
 and how it can run including the associated test data. The test runs should
 not impact the user experience in any way.
 
-![](./assets/img/posts/continuous-testing-questions.png)
+![](/assets/img/posts/continuous-testing-questions.png)
 
 There are several key things that test teams must ask and prepare themselves
 in order to pursue their journey of continuous testing. Firstly, has the team

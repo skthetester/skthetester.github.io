@@ -19,7 +19,7 @@ try to demystify the process in this article by giving a brief checklist of
 critical things that teams can check and incorporate into your test automation
 for a jump start.
 
-![continuous testing steps](./assets/img/posts/continuous-testing-steps.png) 01| Evaluate your test
+![continuous testing steps](/assets/img/posts/continuous-testing-steps.png) 01| Evaluate your test
 suites along with your engineering and product teams  
 to ensure that they **cover all critical business areas, risks, and user
 experience**.  

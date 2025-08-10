@@ -15,7 +15,7 @@ using-javascript/) by Alan Richardson AKA Evil Tester. I was intrigued by how
 he was able to automate a game easily with JavaScript and I gave it a try with
 Chrome's Dino game.
 
-![Dino Game](./assets/img/posts/image-3.png)
+![Dino Game](/assets/img/posts/image-3.png)
 
 ## The Lonely T-Rex Chrome Dino Game
 
@@ -47,7 +47,7 @@ JavaScript function with the following simple actions.
   * Based on obstacle type and Y pos, add a condition to Jump or Duck
   * Finally, call the function so that it runs on the browser while the game is played
 
-![Chrome Dina Code Snippet](./assets/img/posts/image-4-1024x412.png)
+![Chrome Dina Code Snippet](/assets/img/posts/image-4-1024x412.png)
 
 * * *
 

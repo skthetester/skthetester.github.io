@@ -9,4 +9,4 @@ tags:
 title: WAVE - Quick look at the Web Accessibility Evaluation Tool
 ---
 
-![](./assets/img/posts/Accessibility-Testing-Tools-WAVE.png)
+![](/assets/img/posts/Accessibility-Testing-Tools-WAVE.png)

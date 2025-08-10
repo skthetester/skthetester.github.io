@@ -16,7 +16,7 @@ boring stuff?
 
 Here's how I did it.
 
-![](./assets/img/posts/Update-Jira-Issues-1024x576.png)
+![](/assets/img/posts/Update-Jira-Issues-1024x576.png)
 
 ## Solution: Jira API
 
@@ -54,7 +54,7 @@ Jira.
 Create the Input Data Sheet - It can be a simple CSV file, say issueIds.csv
 with just 1 column of data with the header "issueId".
 
-![](./assets/img/posts/image.png)
+![](/assets/img/posts/image.png)
 
 ##### **STEP 2:**
 

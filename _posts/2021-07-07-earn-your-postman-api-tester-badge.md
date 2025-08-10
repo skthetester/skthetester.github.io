@@ -36,7 +36,7 @@ Tester](https://badgr.com/public/badges/Q10KBL_YQXSW0lCQgYWx6Q)" badge when
 you successfully complete and submit your test collection.
 
 ![Postman API Tester
-Badge](./assets/img/posts/image)
+Badge](/assets/img/posts/image)
 
 The Postman API Tester badge recognizes the recipient's ability to leverage
 Postman API test and automation workflows in their development and deployment

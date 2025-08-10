@@ -13,7 +13,7 @@ tests and comparing UI with tools like Applitools, screenshots become even
 more important. But, are you missing a part of your screenshot from the test
 script and wondering what could have caused this?
 
-![missing a part of screenshot](./assets/img/posts/image-9-1024x605.png)Where does the rest of the screen
+![missing a part of screenshot](/assets/img/posts/image-9-1024x605.png)Where does the rest of the screen
 go?
 
 It is one of the common issues that engineers face when they change the
@@ -37,7 +37,7 @@ running _window.devicePixelRatio;_ in the browser console.
 
 * * *
 
-![missing part of screenshot](./assets/img/posts/image-10-1024x605.png)Partial Screenshot + Missing
+![missing part of screenshot](/assets/img/posts/image-10-1024x605.png)Partial Screenshot + Missing
 portion
 
     
@@ -47,7 +47,7 @@ portion
     .shootingStrategy(ShootingStrategies.viewportPasting(**ShootingStrategies.scaling(1.25f)** , 1000))
     .takeScreenshot(driver);
 
-![Full screenshot login form](./assets/img/posts/image-11-1024x605.png)Full Screenshot
+![Full screenshot login form](/assets/img/posts/image-11-1024x605.png)Full Screenshot
 
 Viola! There's your full screenshot.
 

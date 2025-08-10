@@ -13,7 +13,7 @@ map: Could not load content for chrome-extension://xxxxxx.js.map: System
 error: xxx". This is a very common error and is most often caused by the
 Adblock extension installed in your browser.
 
-![Console Error](./assets/img/posts/image.png)
+![Console Error](/assets/img/posts/image.png)
 
 There are two ways to remove these errors.
 
@@ -26,11 +26,11 @@ order to do this, navigate to developer tools, then Settings. Under
 Preferences > Sources, uncheck "Enable JavaScript source maps" and "Enable CSS
 source maps".
 
-![DevTools Settings](./assets/img/posts/image-1.png)
+![DevTools Settings](/assets/img/posts/image-1.png)
 
 Now, if you reload the page in your browser, the errors will be gone. :)
 
-![Clean Console](./assets/img/posts/image-2.png)
+![Clean Console](/assets/img/posts/image-2.png)
 
 * * *
 

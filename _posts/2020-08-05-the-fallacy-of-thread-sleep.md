@@ -20,7 +20,7 @@ fluent waits? It will definitely reduce the overall execution time.
 > **Is it convenience or ignorance driving this behavior among test engineers?
 > What are your thoughts?**
 
-![](./assets/img/posts/thread-sleep-1024x896.png)
+![](/assets/img/posts/thread-sleep-1024x896.png)
 
 Inspired from
 

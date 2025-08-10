@@ -21,7 +21,7 @@ Now he was trapped and he could not come out of it. He had to depend upon
 someone to put grains in the same jar for him to survive. He may not get the
 grain of his choice and he had to feed on whatever may be put into the jar.
 
-![](./assets/img/posts/IMG-20200902-WA0050.jpg)
+![](/assets/img/posts/IMG-20200902-WA0050.jpg)
 
 Here are the four lessons that this story tells you -
 
@@ -57,7 +57,7 @@ Here are the four lessons that this story tells you -
 So, it’s wise to challenge yourself and get out of your comfort zone. In other
 words, upskill yourself continuously, and it’s never too late.
 
-![](./assets/img/posts/skill-vs-age.png)
+![](/assets/img/posts/skill-vs-age.png)
 
   
 Read more about my random thoughts

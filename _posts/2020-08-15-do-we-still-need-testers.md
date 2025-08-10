@@ -30,7 +30,7 @@ development and testing would tell you, both need different mindsets. It is
 next to impossible not to have a **cognitive bias when testing your own code
 and takes a lot of effort to shift gears between roles**.
 
-![](./assets/img/posts/dev-vs.-tester.png)
+![](/assets/img/posts/dev-vs.-tester.png)
 
 Irrespective of the advancements in automation tools and practices,
 **Exploratory Testing** still has a special irreplaceable place in software

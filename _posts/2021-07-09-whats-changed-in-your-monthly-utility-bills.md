@@ -39,7 +39,7 @@ example.
 
 ## Example (Enbridge Gas Bill)
 
-![Visual Test Results](./assets/img/posts/image-2.png)Test Failed as differences found.
+![Visual Test Results](/assets/img/posts/image-2.png)Test Failed as differences found.
 
 Tests failed (shown above) as there were differences between my statements
 other than the obvious ones that would change like usage and cost. Applitools
@@ -51,12 +51,12 @@ month it was an actual meter reading and this month it was only an estimated
 value. I didn't know this was the case until I did this comparison. This also
 explains why I was billed lesser than last month.
 
-![](./assets/img/posts/image-7-1024x463.png)Actual vs Estimated Cost as a
+![](/assets/img/posts/image-7-1024x463.png)Actual vs Estimated Cost as a
 Difference. Shows Ignored regions configured.
 
 There was also a subtle change in the information section.
 
-![](./assets/img/posts/image-4-1024x427.png)Subtle change in the Information
+![](/assets/img/posts/image-4-1024x427.png)Subtle change in the Information
 section that usually goes unnoticed.
 
 ## So, how does it help?

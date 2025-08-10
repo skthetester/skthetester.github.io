@@ -8,7 +8,7 @@ tags:
 title: Why you can't skip Accessibility Testing?
 ---
 
-![](./assets/img/posts/pexels-iliescu-victor-306198-1024x576.jpg)
+![](/assets/img/posts/pexels-iliescu-victor-306198-1024x576.jpg)
 
 For many testers, their first and only preference to certify an application as
 fit for use is by running functional tests. Including me, accessibility
@@ -35,12 +35,12 @@ disability can also be characterized by when and how a person got his
 disability - Birth defect, an accident, side effects of a disease, or just be
 the natural result of aging.
 
-![](./assets/img/posts/accessibility-icons.png)
+![](/assets/img/posts/accessibility-icons.png)
 
 Some of the disabilities that are key to the digital accessibility are listed
 below -
 
-![](./assets/img/posts/Diabilities-2020-12-06-09.29.06-1024x557.png)
+![](/assets/img/posts/Diabilities-2020-12-06-09.29.06-1024x557.png)
 
 ## **Aging and Disability**
 
@@ -52,7 +52,7 @@ significantly. With this, the number of older persons has increased
 substantially and that growth is projected to accelerate in the coming
 decades. This increasing user group makes accessibility testing inevitable.
 
-![](./assets/img/posts/pexels-andrea-piacquadio-3791664-1024x683.jpg)
+![](/assets/img/posts/pexels-andrea-piacquadio-3791664-1024x683.jpg)
 
 ## **Why digital accessibility testing is important?**
 

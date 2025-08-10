@@ -17,7 +17,7 @@ start testing without test cases?
 > To me, test cases for testing is more like the shopping list is for
 > shopping!
 
-![](./assets/img/posts/testcases-sshoppinglist.png)
+![](/assets/img/posts/testcases-sshoppinglist.png)
 
 Here are the reasons why?
 
