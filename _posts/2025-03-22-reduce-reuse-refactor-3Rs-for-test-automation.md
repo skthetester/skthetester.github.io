@@ -1,7 +1,7 @@
 ---
 categories:
 - Test Automation
-date: '2025-08-10'
+date: '2025-03-22'
 tags:
 - test automation
 title: Reduce, Reuse, Refactor - The 3Rs for Test Automation
