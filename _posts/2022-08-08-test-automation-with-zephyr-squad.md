@@ -76,5 +76,4 @@ tools, and processes. Don’t forget to leave your comments here or on X
 
 ## Additional References
 
-<https://support.smartbear.com/zephyr-squad-cloud/docs/test-
-automation/index.html>
+<https://support.smartbear.com/zephyr-squad-cloud/docs/test-automation/index.html>

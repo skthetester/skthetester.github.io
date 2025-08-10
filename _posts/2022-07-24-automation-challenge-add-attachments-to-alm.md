@@ -58,8 +58,7 @@ had to switch to octet-stream. Once it is done, it is pretty straightforward.
 
 <https://admhelp.microfocus.com/alm/api_refs/REST/Content/REST_API/attachments.htm>
 
-<https://community.microfocus.com/adtd/sws-qc/f/itrc-895/403766/alm-rest-api-
-add-attachment>
+<https://community.microfocus.com/adtd/sws-qc/f/itrc-895/403766/alm-rest-api-add-attachment>
 
 * * *
 

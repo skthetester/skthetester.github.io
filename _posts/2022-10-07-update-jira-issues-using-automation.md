@@ -117,8 +117,7 @@ Run the Postman collection. Voila!
 
   * <https://developer.atlassian.com/server/jira/platform/rest-apis/>
   * <https://developer.atlassian.com/server/jira/platform/jira-rest-api-examples/>
-  * https://skthetester.github.io/wp-content/uploads/2024/01/bruno_1.6.1_x64_win.zip
-  * 
+  
 
 * * *
 

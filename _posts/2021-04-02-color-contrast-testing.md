@@ -115,8 +115,7 @@ leave your comments here or on X
 interesting software testing blogs [here](https://skthetester.github.io/).
 
 Additional References:  
-<https://accessibility.blog.gov.uk/2016/06/17/colour-contrast-why-does-it-
-matter/>  
+<https://accessibility.blog.gov.uk/2016/06/17/colour-contrast-why-does-it-matter>  
 <https://www.w3.org/WAI/WCAG21/quickref/?versions=2.0#contrast-minimum>  
 <https://www.a11yproject.com/>  
 <https://www.tpgi.com/color-contrast-checker/>  
