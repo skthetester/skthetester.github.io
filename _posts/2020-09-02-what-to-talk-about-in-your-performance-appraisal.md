@@ -8,7 +8,7 @@ title: What to talk about in your 1:1’s? (Performance Appraisal)
 ---
 
 Performance appraisals are tricky. I came across this nice article (#zine)
-from [Julia Evans](https://twitter.com/b0rk) summarizing the list of things
+from [Julia Evans](https://x.com/b0rk) summarizing the list of things
 that you would need to discuss in your 1:1's (performance appraisal) to make
 it effective. It is a very useful list that you can take along for almost all
 your discussions either it be your performance appraisal or weekly checkpoints
@@ -34,7 +34,7 @@ layout the future plan.
 1️⃣ Career planning  
 2️⃣ Brainstorm
 
-Follow Julia Evans on Twitter <https://twitter.com/b0rk> and visit
+Follow Julia Evans on Twitter <https://x.com/b0rk> and visit
 <https://wizardzines.com> for more like this.
 
 ![Performance Appraisal - Things to Discuss](./assets/img/posts/1-1s-660x1024.png)

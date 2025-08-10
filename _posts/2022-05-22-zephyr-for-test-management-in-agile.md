@@ -75,4 +75,4 @@ tools, and processes. Don’t forget to leave your comments here or on X
 ## References
 
   * [Zephyr for Jira](https://marketplace.atlassian.com/apps/1014681/zephyr-squad-test-management-for-jira?tab=overview&hosting=cloud)
-  * https://testingchief.com/wp-content/uploads/2023/12/arc-setup.zip
+  * https://skthetester.github.io/wp-content/uploads/2023/12/arc-setup.zip

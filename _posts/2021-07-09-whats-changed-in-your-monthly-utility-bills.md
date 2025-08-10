@@ -31,7 +31,7 @@ example.
 ## Here's how I did it
 
   1. [Sign up](https://auth.applitools.com/users/register) for Applitools and get your free account plus API key
-  2. Download their [ImageTester](https://github.com/applitools/ImageTester/releases) utility ([Download](https://testingchief.com/wp-content/uploads/2023/07/ImageTester_3.5.1.zip))
+  2. Download their [ImageTester](https://github.com/applitools/ImageTester/releases) utility ([Download](https://skthetester.github.io/wp-content/uploads/2023/07/ImageTester_3.5.1.zip))
   3. Run a single line in the command prompt to create a base with your last month's statement
   4. Run the same command every month with your new statement and see what has changed
 

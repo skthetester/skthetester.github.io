@@ -41,7 +41,7 @@ organizations within the province._
 ### Why is Accessibility important?
 
 Accessibility is good for both the economy and the community. Read [more
-](https://testingchief.com/why-you-cant-skip-accessibility-testing/)about the
+](https://skthetester.github.io/why-you-cant-skip-accessibility-testing/)about the
 different types of disabilities, how the improved standard of living and
 population growth resulted in an increase of disabled people and why digital
 accessibility is important. Simply put, it is all about inclusiveness, and a

@@ -78,6 +78,6 @@ For more awesome quotes on automation, visit
 
 What do you think? Do you have any favorite quotes that can be applied to
 software testing or test automation? You can leave your comments here or on
-Twitter [@testingchief](https://twitter.com/testingchief). You can read my
+Twitter [@testingchief](https://x.com/testingchief). You can read my
 other interesting software testing blogs
-[here](https://testingchief.com/blog/).
+[here](https://skthetester.github.io/blog/).

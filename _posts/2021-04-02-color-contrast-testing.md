@@ -88,7 +88,7 @@ One of the simplest and most commonly used tools for auditing web
 accessibility is automated accessibility checkers like Axe, Wave, or Google
 Lighthouse. Open the webpage that you would like to audit, and scan the page
 with the tool of your choice. In the example below, there are 34 color
-contrast issues observed on the testingchief.com homepage. The report
+contrast issues observed on the skthetester.github.io homepage. The report
 highlights the exact element where the issue exists and additional information
 on contrast ratio, type of web element, and even suggestions on how to fix the
 problem.

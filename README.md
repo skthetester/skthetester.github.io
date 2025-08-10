@@ -16,7 +16,6 @@ A hardcore software tester with over a decade of hands-on experience in quality 
 
 ## Contact & Community
 
-- [Contact Us](https://testingchief.com/contact-us/)
 - [Facebook](https://www.facebook.com/testingchief)
 - [LinkedIn](https://www.linkedin.com/company/testingchief/)
 - [Twitter](https://twitter.com/testingchief)

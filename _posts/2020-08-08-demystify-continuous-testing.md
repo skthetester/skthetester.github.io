@@ -9,7 +9,7 @@ title: Demystify Continuous Testing
 ---
 
 In the previous article **[“There’s more to Continuous Testing than Automating
-your tests!”](https://testingchief.com/theres-more-to-continuous-testing-than-
+your tests!”](https://skthetester.github.io/theres-more-to-continuous-testing-than-
 automating-your-tests/)** , I suggested what else test teams should be looking
 at in addition to automating their functional tests using their vanilla test
 automation framework to be successful at continuous testing. While that’s the

@@ -13,7 +13,7 @@ Zephyr for Jira (Squad / Scale) is a native application that resides in Jira
 and brings test management capabilities to any Jira project. It adds the
 following capabilities. For more information on the capabilities of Zephyr and
 how it can help agile teams, refer to this
-[article](https://testingchief.com/zephyr-for-test-management-in-agile/).
+[article](https://skthetester.github.io/zephyr-for-test-management-in-agile/).
 Zephyr's Test Automation allows you to import test results from various test
 automation frameworks directly into its test execution cycles, which ensures
 complete visibility and traceability into the automated test process.

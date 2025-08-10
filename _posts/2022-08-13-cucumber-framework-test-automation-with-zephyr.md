@@ -13,11 +13,11 @@ Zephyr for Jira (Squad / Scale) is a native application that resides in Jira
 and brings test management capabilities to any Jira project. It adds the
 following capabilities. For more information on the capabilities of Zephyr and
 how it can help agile teams, refer to this
-[article](https://testingchief.com/zephyr-for-test-management-in-agile/).
+[article](https://skthetester.github.io/zephyr-for-test-management-in-agile/).
 Zephyr's Test Automation allows you to import test results from various test
 automation frameworks directly into its test execution cycles, which ensures
 complete visibility and traceability into the automated test process.  Refer
-to my previous article [here](https://testingchief.com/test-automation-with-
+to my previous article [here](https://skthetester.github.io/test-automation-with-
 zephyr-squad/) to understand more about how Zephyr's test automation works.
 
 On the other hand, Cucumber is an open-source testing tool that enables you to
@@ -82,5 +82,5 @@ tools, and processes. Don’t forget to leave your comments here or on X
 ## Additional References
 
   * <https://support.smartbear.com/zephyr-squad-cloud/docs/test-automation/index.html>
-  * <https://testingchief.com/zephyr-for-test-management-in-agile/>
-  * <https://testingchief.com/test-automation-with-zephyr-squad/>
+  * <https://skthetester.github.io/zephyr-for-test-management-in-agile/>
+  * <https://skthetester.github.io/test-automation-with-zephyr-squad/>
