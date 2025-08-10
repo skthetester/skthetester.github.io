@@ -1,0 +1,14 @@
+---
+layout: page
+title: Sivakumar Ganesan
+permalink: /blog/accessibility/
+---
+
+<h1>Accessibility</h1>
+<ul>
+  {% for post in site.posts %}
+    {% if post.tags contains 'accessibility' %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a> <span>({{ post.date | date: "%b %-d, %Y" }})</span></li>
+    {% endif %}
+  {% endfor %}
+</ul>

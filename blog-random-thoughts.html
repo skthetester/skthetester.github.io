@@ -1,0 +1,14 @@
+---
+layout: page
+title: Sivakumar Ganesan
+permalink: /blog/random-thoughts/
+---
+
+<h1>Random Thoughts</h1>
+<ul>
+  {% for post in site.posts %}
+    {% unless post.tags contains 'tools' or post.tags contains 'automation' or post.tags contains 'accessibility' %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a> <span>({{ post.date | date: "%b %-d, %Y" }})</span></li>
+    {% endunless %}
+  {% endfor %}
+</ul>

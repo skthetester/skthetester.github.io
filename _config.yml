@@ -21,7 +21,11 @@ author: Sivakumar Ganesan
 
 navbar-links:
   About Me: "aboutme"
-  Blog: "/blog/"
+  Blog:
+    - Automation: "/blog/automation/"
+    - Tools: "/blog/tools/"
+    - Accessibility: "/blog/accessibility/"
+    - Random Thoughts: "/blog/random-thoughts/"
   Contact: "/contact/"
 ################
 # --- Logo --- #
