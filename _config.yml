@@ -24,10 +24,9 @@ navbar-links:
   Tech Bits:
     - Automation: "/blog/automation/"
     - Tools: "/blog/tools/"
-    - Accessibility: "/blog/accessibility/"
     - AI: "/blog/artificial-intelligence/"
-    - Random Thoughts: "/blog/random-thoughts/"
-  Contact: "/contact/"
+    - Accessibility: "/blog/accessibility/"
+    - Miscellany: "/blog/random-thoughts/"
 ################
 # --- Logo --- #
 ################
