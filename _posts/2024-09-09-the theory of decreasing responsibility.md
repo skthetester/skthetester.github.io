@@ -4,10 +4,8 @@ categories:
 date: '2024-09-09'
 tags:
 - random
-title: The Theory of Decreasing Responsibility: Who's Really to Blame When Things Go South?
+title: The Theory of Decreasing Responsibility
 ---
-
-# The Theory of Decreasing Responsibility: Who's Really to Blame When Things Go South?
 
 Ever spilled coffee on your laptop and blamed the cup for being *too tippy*? Or maybe you missed a deadline and pointed the finger at your dog for being *too distracting* with those soulful eyes? Welcome to the wild and wacky world of the **Theory of Decreasing Responsibility**, where accountability takes a backseat and the blame game reigns supreme! Buckle up, because we’re diving into this quirky psychological concept with a sprinkle of fun, a dash of insight, and a whole lot of questions to keep you pondering.
 

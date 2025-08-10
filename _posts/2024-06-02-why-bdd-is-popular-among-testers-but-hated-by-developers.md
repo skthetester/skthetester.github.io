@@ -3,7 +3,8 @@ categories:
 - Testing
 date: '2024-06-02'
 tags:
-- testing tools
+- testing 
+- tools
 title: Why BDD is Popular Among Testers but Hated by Developers
 ---
 

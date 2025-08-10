@@ -7,8 +7,6 @@ tags:
 title: 5-Minute Overview of Security Testing
 ---
 
-# 5-Minute Overview of Security Testing
-
 Security testing ensures your software is safe from hackers, data breaches, and other threats. It’s about finding weaknesses before the bad guys do. This quick guide explains the basics of security testing in simple terms, with easy-to-grasp examples for each test type and a summary of minimal steps a functional QA team can take to get started. Let’s dive in!
 
 ## What is Security Testing?
