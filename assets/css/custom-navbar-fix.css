@@ -1,0 +1,9 @@
+/* Custom fix for navbar dropdown items not wrapping */
+.dropdown-menu .dropdown-item {
+  white-space: nowrap !important;
+  word-break: normal !important;
+  width: auto !important;
+  max-width: 300px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
