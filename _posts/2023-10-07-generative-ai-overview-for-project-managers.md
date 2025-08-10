@@ -7,12 +7,8 @@ tags:
 title: Generative AI Overview for Project Managers
 ---
 
-"Generative AI can lead to Happy Project Managers!" 😇
-
-That’s the exciting message from the newly launched micro-credential course,
-'Generative AI Overview for Project Managers' from the Project Management
-Institute (PMI). Intrigued by the buzz surrounding it in the last few days
-from my LinkedIn connections, I took this course to explore its potential.
+"Generative AI can lead to Happy Project Managers!" 😇 That’s the exciting message from the newly launched micro-credential course,
+'Generative AI Overview for Project Managers' from the Project Management Institute (PMI). Intrigued by the buzz surrounding it in the last few days from my LinkedIn connections, I took this course to explore its potential.
 
 In a nutshell, this course covers:  
 1️⃣ What generative AI is all about  
