@@ -22,4 +22,10 @@ My mission is to help organizations and individuals elevate their testing practi
 
 I created Testing Chief to share my knowledge, insights, and resources with the global testing community. Whether you're a beginner or a seasoned professional, you'll find practical tips, tutorials, and thought leadership to help you grow in your QA journey.
 
+### Learn More About Me
+
+Want to know more about my professional journey, skills, and achievements? Check out my detailed profile page for a comprehensive overview of my background and expertise.
+
+**[📄 View My Complete Profile →](https://skthetester.github.io/sk-profile/)**
+
 Let's connect and drive quality together!
