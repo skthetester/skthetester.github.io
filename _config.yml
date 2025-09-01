@@ -21,6 +21,7 @@ author: Sivakumar Ganesan
 
 navbar-links:
   About Me: "aboutme"
+  Projects: "projects"
   Tech Bits:
     - Automation: "/blog/automation/"
     - Tools: "/blog/tools/"
